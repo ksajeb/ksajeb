@@ -1,7 +1,7 @@
-🐱‍💻 About Me:
-🌱 Currently working on: refining my personal projects, exploring advanced tech.
-🤝 Seeking collaboration on open-source projects, particularly those involving full-stack and MERN stack.
-🔍 Actively learning: Next.js and diving deep into DevOps.
+🐱‍💻 About Me:<br>
+🌱 Currently working on: refining my personal projects, exploring advanced tech.<br>
+🤝 Seeking collaboration on open-source projects, particularly those involving full-stack and MERN stack.<br>
+🔍 Actively learning: Next.js and diving deep into DevOps.<br>
 💬 Ask me about: MERN stack, Full-stack development, Next.js, Web Development, Java, DSA.
 
 
