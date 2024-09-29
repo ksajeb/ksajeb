@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on: My personal projects<br>👯 I’m looking to collaborate on open-source projects, especially in full-stack & mern-stack<br>🌱 I’m currently learning: Nextjs<br>💬 Ask me about:#mern-stack, #full-stack, #nextjs, #web-dev<br>⚡ Fun fact:Night owl developer who codes solutions while the world sleeps. MERN stack enthusiast, learning Java, DSA, and aiming to conquer DevOps.
+🐱‍💻 About Me:
+🌱 Currently working on: refining my personal projects, exploring advanced tech.
+🤝 Seeking collaboration on open-source projects, particularly those involving full-stack and MERN stack.
+🔍 Actively learning: Next.js and diving deep into DevOps.
+💬 Ask me about: MERN stack, Full-stack development, Next.js, Web Development, Java, DSA.
 
 
 ## 🌐 Socials:
